@@ -1,6 +1,6 @@
 # aydicoins.github.io
 <html>
-  <body>
+  <h5>
     Token AydiCoinS
-  </body>
+  </h5
  </html>
